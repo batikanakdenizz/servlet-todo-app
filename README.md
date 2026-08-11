@@ -19,7 +19,7 @@ The app runs on **Tomcat 11** and uses the **Jakarta Servlet API** along with mi
 ## Building
 
 ```sh
-cd path/to/MyWebAppProject
+cd path/to/servlet-todo-app
 mvn clean package
 ```
 
